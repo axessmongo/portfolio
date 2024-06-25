@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Front-end technology involves the use of HTML, CSS, and JavaScript to create the visual and interactive aspects of websites and web applications. HTML structures the content, CSS styles it, and JavaScript adds dynamic functionality. Frameworks like React, Angular, and Vue.js enhance development efficiency and maintainability. These technologies work together to provide users."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Backend technology involves server-side development, managing databases, and ensuring the functionality core logic. Common languages include Java, Python, Ruby, and Node.js. Frameworks like Express, Django, and Spring streamline backend development. The backend handles data storage, retrieval, and business logic, enabling the front end to deliver of their  user experience."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI design focuses on the look and feel of a product, and interactive elements to ensure an aesthetically of their  pleasing and user-friendly interface. UX design emphasizes the overall experience and satisfaction of user, focusing on usability, accessibility, and user's journey product. Both UI and UX work together to create efficient interactions for the user of  the success of any digital product."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Webflow development involves using the Webflow platform to design, build, and launch responsive websites visually, without writing code. It provides a drag-and-drop interface for creating custom layouts and styles, making web design accessible to non-developers. Webflow also includes CMS capabilities for managing content and hosting services for deploying sites streamlines  directly."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": " I was blown away by Morgan John Full Stack Web Developer skillset, which resulted in a game-changing experience for my business.",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "I was blown away by Morgan John  Full Stack Web  Developer skillset, which resulted in a game-changing experience for my busin",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I was blown away by Morgan John  Full Stack Web  Developer skillset, which resulted in a game-changing experience for my busin",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
