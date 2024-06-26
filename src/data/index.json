@@ -54,24 +54,24 @@
       "count": "5",
       "src": "./img/avatar-image.png",
       "description": " I was blown away by Morgan John Full Stack Web Developer skillset, which resulted in a game-changing experience for my business.",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "author_name": "Albert",
+      "author_designation": "UI Developer"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
       "description": "I was blown away by Morgan John  Full Stack Web  Developer skillset, which resulted in a game-changing experience for my busin",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "author_name": "Krishan",
+      "author_designation": "Full stack Developer"
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
       "description": "I was blown away by Morgan John  Full Stack Web  Developer skillset, which resulted in a game-changing experience for my busin",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "author_name": "John",
+      "author_designation": "Web Developer"
     }
   ]
 }
