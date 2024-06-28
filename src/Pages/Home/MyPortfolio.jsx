@@ -25,7 +25,7 @@ export default function MyPortfolio() {
                 fill="currentColor"
               />
             </svg>
-            Visit My GitHub
+            View My GitHub
           </button>
         </div>
       </div>
