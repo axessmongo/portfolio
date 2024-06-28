@@ -29,22 +29,22 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Real Estate",
+      "description": "Discover your dream home with our curated listings, offering a range of properties to suit every lifestyle. Invest in your future with expert guidance and unparalleled market insights.",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Stay in control with our intuitive app dashboard, offering real-time insights and easy navigation. Manage your tasks and track progress with just a few taps.",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Easy Rental Home",
+      "description": "Find your perfect rental home effortlessly with our user-friendly platform. Experience seamless searches, secure transactions, and personalized support every step of the way.",
       "link": "View In Github"
     }
   ],
